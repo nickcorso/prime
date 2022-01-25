@@ -1,3 +1,5 @@
-for(var i=7;i<=100;i++){
-console.log("Il modulo di "+i+" diviso 2 ritorna "+i%2)
+for(var i=1;i<=100000;i++){
+    console.log(Date.now())
+
+
 }
